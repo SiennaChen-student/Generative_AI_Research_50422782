@@ -1,2 +1,2 @@
 Entry 1: Initial setup completed.
-Entry 2: Data collection in progress.
+Entry 2: Data collection has been completed and cleaning has started.
